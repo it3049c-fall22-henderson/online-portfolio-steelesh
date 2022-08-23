@@ -1,0 +1,56 @@
+body {
+  background-color: #e1dfdd;
+}
+
+section > p,
+ol,
+ul {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+}
+
+p > span {
+  color: #11a63d;
+}
+
+ol > li > sup {
+  color: #11a63d;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  margin: 1rem 0;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+#homePhoto {
+  width: 300px;
+  float: left;
+  margin-bottom: 2rem;
+  margin-right: 5rem;
+}
+
+.img-abt-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience-lang-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.achievements-games-container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+#games {
+  margin-right: 7rem;
+}
