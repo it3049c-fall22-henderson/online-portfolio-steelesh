@@ -29,5 +29,6 @@ I should get (20) out of 20 on this assignment.
 I had to get familiar with Git commands which I struggled with at first, but when making frequent commits, I got used to the commands faster. I also got a good reminder and usage of HTML and CSS. I think this was a successful assignment and it helped me a lot. Wasn't too difficult and it was easy to understand and complete.
 
 ### How long it took me to finish this?
-It took me 2 hours to get everything set up and to complete my online portfolio with correct semantics and styling.
+
 -----------------------
+It took me 2 hours to get everything set up and to complete my online portfolio with correct semantics and styling.
